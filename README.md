@@ -1,5 +1,5 @@
 # AI-based Image Authenticity Detection
-Project Overview
+## Project Overview
 This project focuses on detecting whether images are real or AI-generated as part of a competition dataset containing 800 images.
 
 ## Key Features
